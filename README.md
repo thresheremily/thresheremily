@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thresheremily
 - 👀 I’m interested in healthcare analytics, crime statistics, and anything else related to using data to tell a story.
-- 🌱 I’m currently learning SQL and am continuously brushing up on R. 
+- 🌱 I’m currently learning Python and am continuously brushing up on R. 
 - 📫 How to reach me: Send me an email thresher.emily@gmail.com
 
 <!---
